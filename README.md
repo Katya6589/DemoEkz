@@ -12,6 +12,7 @@
 ![image](https://github.com/user-attachments/assets/696277ee-94e3-4ce1-89f7-8a9565ed1da8)
 ![image](https://github.com/user-attachments/assets/49ae23df-f121-4459-87c0-66d1731a1f4a)
 
-### Доска - 
+## DBeaver
+![image](https://github.com/user-attachments/assets/04cb153f-5b70-4ef5-a9cb-78694d49ab04)
 
 
