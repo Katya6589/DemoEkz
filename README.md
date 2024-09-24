@@ -5,6 +5,8 @@
 
 ## [БОМ](https://bom.firpo.ru/Public/86) - Страница 25 пример задания    
 
+##[свои данные](https://docs.google.com/spreadsheets/d/1J41k1003E_S7SOWZDsbjxtUpHCi6e1aPWLnI03CS2mw/edit)
+
 ### Время для экзамена
 ![image](https://github.com/user-attachments/assets/fe261719-5122-4729-9c10-f7d258c91288)
 
