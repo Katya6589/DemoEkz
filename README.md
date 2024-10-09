@@ -16,5 +16,8 @@
 ## DBeaver
 ![image](https://github.com/user-attachments/assets/04cb153f-5b70-4ef5-a9cb-78694d49ab04)
 
+## UseCase
+![image](https://github.com/user-attachments/assets/20f4dd39-d9eb-439a-a342-b650fa8193b5)
+
 
 
