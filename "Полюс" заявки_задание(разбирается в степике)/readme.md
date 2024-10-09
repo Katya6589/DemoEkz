@@ -1,3 +1,3 @@
 ## DBeaver
-![image](https://github.com/user-attachments/assets/feda3eb6-bc41-48be-9efc-c501e66f32cf)
+![image](https://github.com/user-attachments/assets/1413f61d-2cb0-4837-b341-989950d8108c)
 
