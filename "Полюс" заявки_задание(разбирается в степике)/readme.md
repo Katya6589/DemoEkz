@@ -1,3 +1,4 @@
+## [Папка с видео](https://drive.google.com/drive/folders/1rgLLUrTAveukN8k_d5XeZW05WHTiGdDM?usp=sharing)
 ![image](https://github.com/user-attachments/assets/a1de6cac-455a-44ba-9984-eafe0d3a2245)
 
 ## DBeaver
